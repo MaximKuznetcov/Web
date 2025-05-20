@@ -11,3 +11,9 @@
 
 # Тест-кейсы в Qase в формате PDF для приложения "Интернет-магазин"
 [Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Test_Qase.pdf)
+
+# Test Run в Qase для управления корзиной и заказами приложения "Интернет-магазин"
+[Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Test_Run_in_Qase.pdf)
+
+# Отчеты о дефектах в YouTrack для управления корзиной и заказами приложения "Интернет-магазин"
+[Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Bugs.xlsx)
