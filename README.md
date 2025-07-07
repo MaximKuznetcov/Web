@@ -17,3 +17,6 @@
 
 # Отчеты о дефектах в YouTrack для управления корзиной и заказами приложения "Интернет-магазин"
 [Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Bugs.xlsx)
+
+# Перехватывание и изменение трафика с помощью Charles Proxy
+[Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%202-04-28).wmv) (https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%202-32-32).wmv) (https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%203-49-10).wmv)
