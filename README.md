@@ -2,24 +2,24 @@
 
 # Тест-план для приложения "Интернет-магазин"
 В этом документе я составил детальный тест-план для веб-приложения «Интернет-магазин». В тест-плане указаны цели тестирования, объекты и объём тестов, используемые подходы, критерии начала и окончания тестирования, риски и предполагаемые ресурсы.
-[Ссылка на документ] (https://docs.google.com/spreadsheets/d/14Ge8L6sJtjYRfEgEskGrOYSkMIWVBt6LDIdf-NeagE4/edit?gid=0#gid=0)
+[Ссылка на документ](https://docs.google.com/spreadsheets/d/14Ge8L6sJtjYRfEgEskGrOYSkMIWVBt6LDIdf-NeagE4/edit?gid=0#gid=0)
 
 # Чек-лист для приложения "Интернет-магазин"
 Разработал чек-лист для основных пользовательских сценариев приложения. Чек-лист помогает быстро проверить ключевой функционал и убедиться в его стабильности при регрессионном тестировании.
-[Ссылка на документ] (https://docs.google.com/spreadsheets/d/1M7Yz6ijdzaitDt5SO19SBO25t15UYBjX1FIxuNgjkp8/edit?pli=1&gid=1507277717#gid=1507277717)
+[Ссылка на документ](https://docs.google.com/spreadsheets/d/1M7Yz6ijdzaitDt5SO19SBO25t15UYBjX1FIxuNgjkp8/edit?pli=1&gid=1507277717#gid=1507277717)
 
 # Тест-кейсы в Qase в формате PDF для приложения "Интернет-магазин"
 В этом разделе собраны тест-кейсы, оформленные в системе управления тестированием Qase в pfd. Каждый кейс содержит подробное описание действий, ожидаемый результат и актуальный статус.
-[Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Test_Qase.pdf)
+[Ссылка на документ](https://github.com/MaximKuznetcov/Web/blob/main/Test_Qase.pdf)
 
 # Test Run в Qase для управления корзиной и заказами приложения "Интернет-магазин"
 Я провёл серию тестов (Test Run) для проверки сценариев добавления товаров в корзину и оформления заказа в Qase. Этот документ отражает результаты прохождения тест-кейсов и найденные дефекты.
-[Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Test_Run_in_Qase.pdf)
+[Ссылка на документ](https://github.com/MaximKuznetcov/Web/blob/main/Test_Run_in_Qase.pdf)
 
 # Отчеты о дефектах в YouTrack для управления корзиной и заказами приложения "Интернет-магазин"
 В этом отчёте я задокументировал все баги, обнаруженные во время тестирования корзины и оформления заказа, включая описание, шаги для воспроизведения и приоритет. Отчёты оформлены в баг-трекере YouTrack.
-[Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Bugs.xlsx)
+[Ссылка на документ](https://github.com/MaximKuznetcov/Web/blob/main/Bugs.xlsx)
 
 # Перехватывание и изменение трафика с помощью Charles Proxy
 Использование Charles Proxy для перехвата и анализа HTTP-трафика приложения. Я записал несколько видео, на которых показано, как с помощью прокси анализировать и модифицировать запросы и ответы, что позволяет проверять работу бэкенда и клиент-сервера.
-[Ссылка на документ] (https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%202-04-28).wmv) (https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%202-32-32).wmv) (https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%203-49-10).wmv)
+[Ссылка на документ](https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%202-04-28).wmv) [Ссылка на документ](https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%202-32-32).wmv) [Ссылка на документ](https://github.com/MaximKuznetcov/Web/blob/main/Screen%20Recording%20(07.07.2025%203-49-10).wmv)
